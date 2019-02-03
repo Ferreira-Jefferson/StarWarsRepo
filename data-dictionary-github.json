@@ -1,0 +1,27 @@
+{   
+    "git config" : "Configarações do git",
+    "git init" : "inicializa um repositório",
+    "git status" : "Mostra o estado atual do diretório de trabalho (Working Directory).",
+    "git add" : {
+        "git add" : "Adiciona os arquivos desejados na área de teste (Staging Area).",
+        "git add <arquivo>" : "Adiciona apenas o arquivo passado na Staging Area.",
+        "git add ." : "Adiciona todos os arquivos da Working Directory na Staging Area."
+    },
+    "git commit" : {
+        "git commit" : "Armazena os arquivos da Staging Area permanentemente no repositório git.",
+        "git commit -m" : "Adiciona uma mensagem descritiva do commit."
+    },
+    "git log" : "Mostra o histórico dos commits que foram feitos.",
+    "git remote" : {
+        "git remote" : "Gerencia o vínculo do repositório local com um repositório remoto.",
+        "git remote add" : "Informa que deverá ser adicionado um novo controle remoto, diz que será criado o vínculo do repositório local com o remoto.",
+        "git remote add origin" : "origin é um alias(apelido) para o nome do repositório remoto que será vínculado",
+        "git remote add origin url-do-repositorio-remoto" : "Comando completo para o vínculo entre o repositório local e o remoto."
+    },
+    "git push" : "Atualiza repositório remoto com base no último commit feito no repositório local.",
+    "git reset" : "Desfaz último comando aplicado.",
+    "git checkout" : "Desfaz última alteração feita.",
+    "git clone" : "Baixa um repositório já existente",
+    "git pull" : "Atualiza o repositório local com base em um repositório remoto"
+
+}
