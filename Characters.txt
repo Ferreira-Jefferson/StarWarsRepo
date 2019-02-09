@@ -1,5 +1,7 @@
-Dart Vader
+Darth Vader
 Leia Organa
 Luke SkyWalker
 Master Yoda
 Han Solo
+Chewbacca
+Rey
