@@ -39,6 +39,7 @@
         "git branch" : "Cria novos ramos de um repositório, o que permite fazer alterações no projeto sem mexer no repositório principal(master)",
         "git branch nome_do_novo_ramo" : "Cria um novo branch com o nome passado",
         "git checkout nome_da_branch" : "Muda para a branch passada"
-    }
+    },
+    "git merge" : "Une as alterações feitas em duas branchs distintas"
 
 }
