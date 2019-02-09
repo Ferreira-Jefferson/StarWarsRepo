@@ -38,8 +38,13 @@
     "git branch" : {
         "git branch" : "Cria novos ramos de um repositório, o que permite fazer alterações no projeto sem mexer no repositório principal(master)",
         "git branch nome_do_novo_ramo" : "Cria um novo branch com o nome passado",
-        "git checkout nome_da_branch" : "Muda para a branch passada"
+        "git checkout nome_da_branch" : "Muda para a branch passada",
+        "git chechout -b nome_do_novo_ramo" : "Cria uma nova branch e já muda para ela."
     },
-    "git merge" : "Une as alterações feitas em duas branchs distintas"
+    "git merge nome_da_branch_que_quer_unir" : "Une as alterações feitas em branchs distintas, recomendado quando há muitas alterações nos arquivo é é necessário ter o registro detalhado.",
+    "git rebase" : {
+        "git rebase nome_da_branch_que_quer_unir" : "Une as alterações feitas em branchs dstintas, com a diferença de que une os commits da branch secundária na linha do tempo da branch principal, recomendado quando não há grandes alterações nos arquivos.",
+        "git rebase --continue" : "Continua a operação, sem que seja obrigatório fazer um outro commit"
+    }
 
 }
