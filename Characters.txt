@@ -1,3 +1,5 @@
 Dart Vader
 Leia Organa
 Luke SkyWalker
+Master Yoda
+Han Solo
