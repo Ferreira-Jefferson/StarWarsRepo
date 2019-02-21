@@ -9,3 +9,4 @@ Rey
 C-3PO
 Obi-Wan
 Grang Moff
+Biggs
