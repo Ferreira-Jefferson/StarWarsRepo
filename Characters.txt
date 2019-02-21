@@ -5,3 +5,5 @@ Master Yoda
 Han Solo
 Chewbacca
 Rey
+
+C-3PO
