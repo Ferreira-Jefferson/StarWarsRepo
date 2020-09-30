@@ -8,3 +8,6 @@
     - encerrar [não funfa]
     - fix, fixes e fixed [funfa]
     - resolve, resolves e resolved  [funfa]
+  [ ] Testar onde o comando para fechar a issue deve estar
+    - Final ex: "mensagem de commit close #9" [funfa]
+    - início ex: "close #9 mensagem de commit"
