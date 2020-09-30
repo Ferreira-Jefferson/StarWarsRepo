@@ -8,3 +8,4 @@
     - encerrar [não funfa]fix
     - fix [funfa]
     - fixes [funfa]
+    - fixed
