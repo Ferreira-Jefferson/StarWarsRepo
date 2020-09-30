@@ -4,8 +4,7 @@
 [ ] objetivos
   [ * ] referenciar issue #9 
   [ * ] fechar issue #9  
-    - Close, close, Closes ou closes [funfa]
-    - encerrar [não funfa]fix
-    - fix [funfa]
-    - fixes [funfa]
-    - fixed
+    - Close, close, Closes e closes [funfa]
+    - encerrar [não funfa]
+    - fix, fixes e fixed [funfa]
+    - resolve
