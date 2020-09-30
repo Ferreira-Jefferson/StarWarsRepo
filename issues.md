@@ -12,3 +12,4 @@
     - Final ex: "mensagem de commit close #9" [funfa]
     - início ex: "close #9 mensagem de commit" [funfa]
     - com algum caracter colado ex: "close #9: mensagem de commit" [funfa]
+    - com uma palavra entre o comando e o número: "close issue #9: mensagem de commit"
