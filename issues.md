@@ -7,4 +7,5 @@
     - Close, close, Closes e closes [funfa]
     - encerrar [não funfa]
     - fix, fixes e fixed [funfa]
-    - resolve
+    - resolve [funfa]
+    - resolves
