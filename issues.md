@@ -7,4 +7,5 @@
   [ * ] fechar a issue #9 sendo o mais direto possível
   [ * ] fechar a issue #9 sendo o mais direto possível
   [ * ] fechar a issue #9 para fechar  a mensagem deve ser Closes #numero_issue
-  [ * ] tentar reabir issue #9 com Open
+  [ * ] tentar reabir issue #9 com Open ...não tem como 
+  [ * ] fechar issue #9 com closes 
