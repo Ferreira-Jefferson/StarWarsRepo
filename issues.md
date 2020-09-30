@@ -6,4 +6,5 @@
   [ * ] fechar a issue #9 usando praticamente a mesma mensagem do artigo
   [ * ] fechar a issue #9 sendo o mais direto possível
   [ * ] fechar a issue #9 sendo o mais direto possível
-  [ * ] fechar a issue #9 sendo o mais direto possível
+  [ * ] fechar a issue #9 para fechar  a mensagem deve ser Closes #numero_issue
+  [ * ] tentar reabir issue #9
